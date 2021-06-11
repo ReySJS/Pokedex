@@ -1,0 +1,21 @@
+.pages-conteiner {
+    width: 50px;
+    margin-left: 25px;
+    position: fixed;
+    top: 95%;
+    left: 50%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.pages {
+    width: 20px;
+    height: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    cursor: pointer;
+    background: #F1D379;
+    font-weight: 700;
+    color: #364547;
+}
